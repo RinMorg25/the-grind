@@ -179,52 +179,6 @@ p {
   padding-left: 30px;
 }
 
-
-#latte {
-  width: 300px;
-  height: 250px;
- float: left;
- padding-right: 100px;
- padding-left: 100px;
-}
-
-#coffee_bar {
-  width: 300px;
-  height: 250px;
- align-content: center;
- padding-left: 13px;
-}
-
-#espresso {
-  width: 300px;
-  height: 250px;
- float: right;
- padding-left: 100px;
- padding-right: 100px;
-}
-
-#cinnamon_roll {
-  width: 300px;
-  height: 250px;
- float: left;
- padding-right: 100px;
- padding-left: 100px;
-}
-
-#cookies {
-  width: 300px;
-  height: 250px;
- align-content: center;
- padding-left: 13px;
-}
-
-#pain_au_chocolat {
-  width: 300px;
-  height: 250px;
-  float: right;
-  padding-right: 100px;
-}
-
 #bfcsticker {
   width: 300px;
   height: 250px;
